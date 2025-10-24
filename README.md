@@ -45,6 +45,7 @@ cd %userprofile%\Desktop\MyLab
 
 
 type nul > MyFile.txt
+
 ![3_myfile](https://github.com/user-attachments/assets/264f09a9-9ab1-4319-8ffb-087580360d88)
 
 
